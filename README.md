@@ -5,7 +5,7 @@ For this, we need a dataset containing information about online payment fraud, s
 For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments. 
 DATASET : <https://www.kaggle.com/ealaxi/paysim1/download>
 
-..**Below are all the columns from the dataset I’m using here:**
+.. **Below are all the columns from the dataset I’m using here:**
 * step: represents a unit of time where 1 step equals 1 hour
 * type: type of online transaction
 * amount: the amount of the transaction
